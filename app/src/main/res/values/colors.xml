@@ -3,10 +3,5 @@
 
     <color name="colorPrimary">#11CFC5</color>
     <color name="colorPrimaryDark">#000</color>
-    <color name="primaryLabelColor">#0070BA</color>
-    <color name="subtititlecolor">#6F6F6F</color>
-    <color name="lineperfil">#D5D2D2</color>
-    <color name="tabBarMenu">#F9F9F9</color>
-
 
 </resources>

@@ -24,30 +24,12 @@
 
 
         <meta-data
-            android:name="pe.com.patadeperro.presentation.utils.GlideConfiguration"
+            android:name="pe.com.plantilla.presentation.utils.GlideConfiguration"
             android:value="GlideModule" />
 
 
-        <provider
-            android:name="com.facebook.FacebookContentProvider"
-            android:authorities="com.facebook.app.FacebookContentProvider566428013549380"
-            android:exported="true" />
-
         <activity
-            android:name="pe.com.patadeperro.presentation.ui.activities.MapActivity"
-            android:screenOrientation="portrait" />
-
-        <activity
-            android:name="pe.com.patadeperro.presentation.ui.activities.ListActivity"
-            android:screenOrientation="portrait" />
-
-        <activity
-            android:name="pe.com.patadeperro.presentation.ui.activities.MainActivity"
-            android:screenOrientation="portrait" />
-
-
-        <activity
-            android:name="pe.com.patadeperro.presentation.ui.activities.PruebaActivity"
+            android:name="pe.com.plantilla.presentation.ui.activities.PruebaActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>

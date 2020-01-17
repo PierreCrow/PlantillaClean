@@ -18,7 +18,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId 'pe.com.patadeperro'
+        applicationId 'pe.com.plantilla'
         minSdkVersion 21
         targetSdkVersion 26
         versionName '2.0008'
@@ -184,3 +184,5 @@ dependencies {
     }
 
 }
+
+apply plugin: 'com.google.gms.google-services'
